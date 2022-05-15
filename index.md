@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
----
-layout: forward
+
 target: https://www.youtube.com/watch?v=a3Z7zEc7AXQ
----
 
 You can use the [editor on GitHub](https://github.com/Pedrodiger/DoNotGoHere/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
